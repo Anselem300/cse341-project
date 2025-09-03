@@ -1,0 +1,23 @@
+[
+    {
+    "firstName": "Anselem",
+    "lastName": "Samuel",
+    "email": "anselemsamuel97@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "2002-10-06"
+    },
+    {
+        "firstName": "Royal",
+        "lastName": "Obinna",
+        "email": "royalobinna@gmail.com",
+        "favoriteColor": "Green",
+        "birthday": "2000-1-06"
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Sunday",
+        "email": "peterpan@gmail.com",
+        "favoriteColor": "Purple",
+        "birthday": "2001-11-03"
+    }
+]
