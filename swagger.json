@@ -5,7 +5,7 @@
     "description": "This is a contact API",
     "version": "1.0.0"
   },
-  "host": "https://cse341-project-go86.onrender.com",
+  "host": "cse341-project-go86.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
